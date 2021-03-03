@@ -1,3 +1,7 @@
+// Author: Nana's Effector
+// Date  : 2021/03/04
+
+
 #define LED_PIN 13
 
 #include "BluetoothSerial.h"
