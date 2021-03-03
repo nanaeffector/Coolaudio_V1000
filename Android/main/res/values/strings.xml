@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">V1000_Tester</string>
+    <string name="title">Chorus</string>
+    <string name="connect">BT-Connect</string>
+    <string name="depth">Depth</string>
+    <string name="speed">Speed</string>
+    <string name="mix">Mix</string>
+</resources>
