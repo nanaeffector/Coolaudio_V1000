@@ -1,3 +1,6 @@
+// Author: Nana's Effector
+// Date  : 2021/03/04
+
 
 // chorus 命令.
 const Word isntruction_set_chorus[] = {
