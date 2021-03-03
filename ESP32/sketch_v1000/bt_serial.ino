@@ -1,3 +1,7 @@
+// Author: Nana's Effector
+// Date  : 2021/03/04
+
+
 #include "BluetoothSerial.h"
 #include <string.h>
 #include <stdlib.h>
