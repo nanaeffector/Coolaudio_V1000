@@ -1,3 +1,7 @@
+// Author: Nana's Effector
+// Date  : 2021/03/04
+
+
 #ifndef BT_SERIAL
 #define BT_SERIAL
 
