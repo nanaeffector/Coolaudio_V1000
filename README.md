@@ -12,4 +12,5 @@ Make a Digital-Stomp with Coolaudio V1000.
 
 # Documents
 + Specification (T.B.D)
++ Block diaglam (T.B.D)
 + Schematic (T.B.D)
